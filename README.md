@@ -31,4 +31,6 @@ A fast multithreaded TCP Port Scanner built using Python for cybersecurity learn
 git clone https://github.com/neerajrajeev-in/port-scanner.git
 
 cd port-scanner
+Run
+python3 port.py
 
